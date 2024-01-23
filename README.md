@@ -1,1 +1,2 @@
-# blog-app-react-tailwind
+# MFASBlog
+## Menggunakan React JS dan Tailwind CSS
